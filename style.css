@@ -158,6 +158,14 @@ body > h1 {
     box-shadow: 0 4px 14px rgba(0,0,0,0.1);
 }
 
+.Ultima-hora{
+    font-family: Georgia, serif;
+    font-size: 1.8rem;
+    color: #3a2a1a;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
 .story-title,
 .contact-title {
     font-family: Georgia, serif;
